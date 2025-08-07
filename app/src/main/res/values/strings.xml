@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Automation</string>
+
+    <string name="all_message_title">"Все cообщения"</string>
+
+    <string name="settings_url_title">Введите Url для бэкэнд сервера</string>
+    <string name="settings_phone_title">Введите номер телефона</string>
+
+    <string name="permission_label">Для начала работы нужно настроить доступы</string>
+    <string name="permission_sublabel">Для корректной работы потребуется несколько разрешений. Они должны быть запрошены по очереди через системные окна, не торопитесь. Важно подтвердить все запросы для полноценной работы приложения</string>
+
+    <string name="permission_white_list">Добавить приложение в White-List</string>
+    <string name="permission_subtitle_white_list">Добавить приложения в особый список для приоритета системы. Выдайте статус \"Без ограничений\"</string>
+
+    <string name="permission_sim_card">Информация о Сим-карте</string>
+    <string name="permission_subtitle_sim_card">Получение важной информации о номере</string>
+
+    <string name="permission_sms_default">Смс-менеджер по дефолту</string>
+    <string name="permission_subtitle_sms_default">Важное разрешение для получения смс</string>
+
+    <string name="permission_push">Чтение Push уведомлений</string>
+    <string name="permission_subtitle_push">Важное разрещение для получения Push уведомлений. Выберете его в списке и предоставьте \"Доступ ко всем уведовлениям!\"</string>
+
+<!--    <string name="permission_sim_card">Информация о Сим-карте</string>-->
+<!--    <string name="permission_subtitle_sim_card">Получение важной информации о номере</string>-->
+
+    <string name="next_button_title">Продолжить</string>
+
+    <string name="base_url">https://www.google.com/</string>
+
+    <string name="default_base_url">https://trader-api3.paytop.pro/</string>
+
+</resources>

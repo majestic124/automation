@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "314517166432",
+    "project_id": "automation",
+    "storage_bucket": "automation.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314517166432:android:bbc11f207396ef4aa8a605",
+        "android_client_info": {
+          "package_name": "com.automation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOy1CK3tC_dczh0QfD8UJZKwPBwcmE3BM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
